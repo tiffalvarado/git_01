@@ -16,6 +16,16 @@ you, if you change any of this the git program will notice it and compromise you
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
 
+'Twas brillig, and the slithy toves 
+Did gyre and gimble in the wabe:  
+All mimsy were the borogoves, 
+And the mome raths outgrabe.  
+
+"Beware the Jabberwock, my son!  
+The jaws that bite, the claws that catch!  
+Beware the Jubjub bird, and shun  
+The frumious Bandersnatch!"  
+
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
 
@@ -24,3 +34,27 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## Last Verse
 <!--Put a short poem you created using chatGPT of 20 to 30 lines,here!-->
+In the hush before the light,  
+Shadows linger, dreams take flight.  
+The world wrapped in a silken veil,  
+As night begins to softly pale.  
+Morning dew on blades of grass,  
+A fleeting moment, soon to pass.  
+Birds awaken, songs arise,  
+Painting colors in the skies.  
+Clouds like whispers drift and sway,  
+Chasing remnants of the day.  
+Each sunbeam casts a gentle glow,  
+Unfolding stories, yet untold.  
+Fields of gold and skies of blue,  
+Nature's canvas, ever new.  
+Time meanders, slow and free,  
+In the dance of eternity.  
+As the world begins to stir,  
+Life awakens, hearts confer.  
+With every breath, a chance to start,  
+A new beginning, a hopeful heart.  
+So linger here, in morning’s grace,  
+Embrace the beauty, find your place.  
+For every dawn, a promise made,  
+In whispered light, our fears allayed.  
